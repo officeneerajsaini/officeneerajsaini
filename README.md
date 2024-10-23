@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Neeraj Saini</h1>
-<h3 align="center">Software Engineer | TypeScript Enthusiast | Open Source Contributor | MERN Stack</h3>
+<h3 align="center">IITM Student | Full Stack | Open Source Contributor </h3>
 
 [![](https://visitcount.itsvg.in/api?id=officeneerajsaini&icon=0&color=0)](https://visitcount.itsvg.in)
 
