@@ -13,3 +13,6 @@
 
 ### <h3> 🔝 Top Contributed Repo </h3>
 ![](https://github-contributor-stats.vercel.app/api?username=officeneerajsaini&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+### <h3> Hacktoberfest2024 </h3>
+[![An image of @officeneerajsaini's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/officeneerajsaini)](https://holopin.io/@officeneerajsaini)
